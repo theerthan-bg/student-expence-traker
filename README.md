@@ -24,7 +24,7 @@ A python-based Expense traking application that helps students manage daily expe
 
 
 ## Installation
-
+bash
 git clone
 https://github.com/theerthan-bg/student-expence-traker.git
 
