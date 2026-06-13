@@ -55,8 +55,8 @@ student-expence-traker
 ├── README.md
 └── screenshots
 ## Future Improvements
--Monthly expense reports
--Data visualization with charts
--User login system
--Database integration
--Export reports to pdf
+- Monthly expense reports
+- Data visualization with charts
+- User login system
+- Database integration
+- Export reports to pdf
