@@ -41,7 +41,8 @@ python main.py
 - Github
 ## 👉🏻Authors
 
-Theerthan BG
+ Theerthan BG😁
+- ➡️https://github.com/theerthan-bg
 ## 🏷️Badges
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
