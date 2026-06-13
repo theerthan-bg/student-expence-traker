@@ -45,9 +45,9 @@ python main.py
 - ➡️https://github.com/theerthan-bg
 ## 🏷️Badges
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Project-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+- ![Python](https://img.shields.io/badge/Python-3.13-blue)
+- ![GitHub](https://img.shields.io/badge/GitHub-Project-black)
+- ![License](https://img.shields.io/badge/License-MIT-green)
 ## 🔩Project Structure
 
 student-expence-traker
