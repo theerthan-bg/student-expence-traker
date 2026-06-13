@@ -47,8 +47,16 @@ BCA First Year Student
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Project-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
-## Monthly expense reports
-## Data visualization with charts
-## User login system
-## Database integration
-## Export reports to pdf
+## Project Structure
+
+student-expence-traker
+├── main.py
+├── expenses.csv
+├── README.md
+└── screenshots
+## Future Improvements
+-Monthly expense reports
+-Data visualization with charts
+-User login system
+-Database integration
+-Export reports to pdf
