@@ -1,9 +1,10 @@
 
 
-💰Student Expense Traker:- 
+## 💰Student Expense Traker
+- 👇🏻
 A python-based Expense traking application that helps students manage daily expenses, categorize  spending, and monitor their budget effectively.
 
-## Screenshots
+
 
 ### Main Menu
 ![Main Menu](Screenshot%202026-06-13%2012.01.02%20PM.png)
