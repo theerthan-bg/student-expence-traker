@@ -40,8 +40,7 @@ Git
 Github
 ## Authors
 
-Theerthan
-BCA First Year Student
+Theerthan BG
 ## Badges
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
