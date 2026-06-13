@@ -1,6 +1,6 @@
 
 
-Student Expense Traker:-
+💰Student Expense Traker:- 
 A python-based Expense traking application that helps students manage daily expenses, categorize  spending, and monitor their budget effectively.
 
 ## Screenshots
@@ -26,7 +26,7 @@ A python-based Expense traking application that helps students manage daily expe
 ## 📲Installation
 bash
 git clone
-https://github.com/theerthan-bg/student-expence-traker.git
+  https://github.com/theerthan-bg/student-expence-traker.git
 
 cd student-expense-traker
 
@@ -34,10 +34,10 @@ python main.py
     
 ## 🛠️Tech Stack
 
-python
-CSV
-Git
-Github
+- python
+- CSV
+- Git
+- Github
 ## 👉🏻Authors
 
 Theerthan BG
@@ -49,10 +49,10 @@ Theerthan BG
 ## 🔩Project Structure
 
 student-expence-traker
-├── main.py
-├── expenses.csv
-├── README.md
-└── screenshots
+- ├── main.py
+- ├── expenses.csv
+- ├── README.md
+- └── screenshots
 ## 👨🏻‍💻Future Improvements
 - Monthly expense reports
 - Data visualization with charts
